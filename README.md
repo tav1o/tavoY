@@ -1,6 +1,7 @@
 # tavoY
 ADSO-II-Gabriel-
 =======
+![mi foto](https://www.semana.com/resizer/v2/A4AVS7ZJLZCBZOKWS4ULD3MFX4.jpg?auth=f78d0fb9b6d1ee3785bea7fe012471d5b43a80c0e5f4cbae2634a52695a13cb9&smart=true&quality=75&width=1280&height=720)
 Hoja de vida
 Información Personal
 Nombre: Gabriel Angel Arrieta Duarte
